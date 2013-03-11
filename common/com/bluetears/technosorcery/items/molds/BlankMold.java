@@ -1,10 +1,10 @@
-package com.bluetears.technosorcery.items;
+package com.bluetears.technosorcery.items.molds;
 
 import net.minecraft.item.Item;
 
-public class IronMold extends Item {
+public class BlankMold extends Item {
 
-        public IronMold(int id) {
+        public BlankMold(int id) {
                 super(id);
                 // TODO Auto-generated constructor stub
         }
