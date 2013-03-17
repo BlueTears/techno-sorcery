@@ -1,10 +1,10 @@
-package com.bluetears.technosorcery;
+package com.bluetears.mods.technosorcery;
 
 
 
+import com.bluetears.mods.technosorcery.items.Silicate;
 import net.minecraft.item.Item;
 
-import com.bluetears.technosorcery.items.Silicate;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;

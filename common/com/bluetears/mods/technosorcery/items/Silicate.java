@@ -1,4 +1,4 @@
-package com.bluetears.technosorcery.items;
+package com.bluetears.mods.technosorcery.items;
 
 import net.minecraft.client.renderer.texture.IconRegister;
 import net.minecraft.creativetab.CreativeTabs;
